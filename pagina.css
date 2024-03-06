@@ -1,0 +1,157 @@
+{
+   magir:0px;
+   padding:0px
+}
+
+body {
+    background: url(patitas.jpg);
+    color:#fff;
+}
+
+#contenedor {
+    width:960px;
+     margin:auto;
+    margin-top:20px;
+    margin-bottom:20px;
+    border-radius:20px;
+}
+ 
+header {
+    height:300px;
+    background:url(7.jpg);
+    border-radius:20px;
+    font-style:italic;
+}
+
+header h1{
+     font-size:50px;
+     text-align:center;
+     line-height:150px;
+     color:#000080;
+}
+header h2{
+     text-align:center;
+} 
+header h3{
+     text-align:center;
+}
+
+nav{
+   background-color:#808080;
+   height:80px;
+   border-radius:20px;
+}
+
+nav h2 {
+    font-size:40px;
+    text-align:center;
+    line-height:60px;
+}
+
+section{
+    width:960px;
+    height:1500px;
+    background-color:#c0c0c0;
+    border-radius:20px;
+    margin-top:10px;
+    margin-bottom:10px; 
+}
+   
+article {
+    width:650px;
+    height:1500px;
+    float:left;
+    background:url(8.jpg);
+    margin-top:10px;
+    margin-right:10px;
+    margin-bottom:10px;
+    border-radius:20px;
+    
+}
+
+article h1{
+   font-size:36px;
+   text-align:center;
+   line-height:10px;
+   color:#0c0cff;
+   font-style:italic;
+}
+article h2{
+   font-size:10px;
+   text-align:center;
+   line-height:10px;
+   color:#000000;
+}
+
+article h3{
+   font-size:18px;
+   text-align:center;
+   line-height:10px;
+   color:#000000;
+}
+
+article h4{
+     efont-size:26px;
+     text-align:center;
+     line-height:10px;
+     color:#ff0000;
+     font-style:italic;
+}
+
+article h5{
+   font-size:15px;
+   text-align:center;
+   line-height:10px;
+   color:#000000;
+}
+
+article h6{
+   font-size:26px;
+   text-align:center;
+   line-height:10px;
+   color:#0c0cff;
+   font-style:italic;
+}
+
+aside{
+    width:300px;
+    height:1000px;
+    background:url(6.jpg);
+    margin-top:10px;
+    float:right;
+    border-radius:20px;
+    color:#000000;
+}
+
+aside h1 {
+     font-size:30px;
+     text-align:center;
+     line-height:100px;
+     color:#008080;
+}
+
+aside h2 {
+     font-size:30px;
+     text-align:center;
+     line-height:50px;
+     color:#ff0000;
+}
+
+aside h3{
+     font-size:20px;
+     text-align:center;
+     line-height:30px;
+}
+
+footer {
+    background-color:#000000;
+    clear:both;
+    border-radius:20px;
+}
+
+footer h2 {
+    font-size:30px;
+    text-align:center;
+    padding:20px;
+    font-style:italic;
+}

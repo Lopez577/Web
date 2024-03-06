@@ -1,0 +1,64 @@
+.menu {
+	padding: 0;
+	}
+.menu li
+     {
+     	display: inline;
+     }
+.menu li a
+     {
+     	font-family: Arial;
+         font-size: 11px;
+         text-decoration: none;
+         float:left;
+         padding: 10px;
+         background-color: #2175bc;
+         color: #fff;
+      }
+.menu li a:hover
+     {
+     	cursor:url(.Informática/johndeere.png), auto;
+     	background-color: green;
+         margin-top: -2;
+         padding-bottom: 12px;
+     }
+table
+     {
+     	border: #cc0b30 1px solid;
+     }
+     td, th
+     {
+     	border: green 1px solid;
+     }
+body, html
+     {
+     	background-image: url(./images/milpa1.jpeg);
+         background-repeat: no-repeat;
+         background-attachment: fixed;
+         background-position: center center;
+         background-size: cover;
+     }
+body{
+	background-color: write;
+	text-algin: center;
+	}
+	h1{
+		font-family: arial,helvetica,sans-serif;
+		color:Black;
+		font-size: 40px;
+	}
+	h2{
+		font-family: "times new roman", times, serif;
+		color: #252850;
+		font-size: 30px;
+		}
+		h3{
+		font-family: georgia, "times new roman", times, serif;
+		color: green;
+		font-size: 25px;
+		}
+		p{
+		font-family: cursive;
+		color: red;
+		font-size: 20px;
+		}

@@ -1,0 +1,23 @@
+.menu{
+        padding: 0;
+     }
+.menu li 
+     {
+        display: inline;
+     }
+.menu li a 
+        {
+           font-family: Arial;     /*cambia la fuente*/
+           font-size: 20px;     /*define el tamaño de la fuente*/
+           text-decoration: none;     /*con el valor none elimina las viñetas*/
+           float: center;     /*indica que los elementos flotan a la derecha de el anterior*/
+           padding: 2px;     /*define el margen interno*/
+           background-color:#808080;     /*color de fondo*/
+           color: #fff;     /*color de texto*/
+}
+.menu li a:hover
+        {
+          background-color: red;
+          margin-top: -2;
+          padding-bottom: 12px;
+        }
